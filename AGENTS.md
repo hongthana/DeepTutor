@@ -173,3 +173,7 @@ wheel environments also support `module install/uninstall`. Upgrading a legacy
 `deeptutor-cli` installation requires uninstalling it before installing the new
 packages, preserving the same `DEEPTUTOR_HOME`; see the setup guide. Validate
 with `python -m pip check`, `deeptutor module list`, and the setup readiness checks.
+
+## Contributor orientation
+
+For repository architecture, ownership, development flow, tests, and dated issue/PR research, start at [docs-for-dev/CONTRIBUTOR_GUIDE.md](docs-for-dev/CONTRIBUTOR_GUIDE.md). It describes the 1.7.0 source layout and public contribution branch policy; verify live branch and issue status before acting. Keep the canonical technical contracts in their topic pages linked from [docs-for-dev/README.md](docs-for-dev/README.md).

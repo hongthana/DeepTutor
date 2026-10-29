@@ -6,6 +6,10 @@ on another release. The version authority is
 [`deeptutor/__version__.py`](../deeptutor/__version__.py). Commands below run
 from the repository root unless a page says otherwise.
 
+## Contributing
+
+- [Contributor guide](CONTRIBUTOR_GUIDE.md): project map, contribution workflow, risk areas, and dated research appendices.
+
 ## Choose a reading path
 
 | Your task | Read in order | Completion evidence |
